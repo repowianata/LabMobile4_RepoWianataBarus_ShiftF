@@ -1,8 +1,8 @@
 # Toko kita
-Nama : Repo Wianata Barus
-Nim : H1D022029
-Shift KRS : C
-Shift Baru : F
+Nama : Repo Wianata Barus </br>
+Nim : H1D022029 </br>
+Shift KRS : C </br>
+Shift Baru : F </br>
 
 ## ScreenShot
 <img src = "login.png" width = 300>
