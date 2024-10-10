@@ -76,6 +76,7 @@ Ini membuat manajemen kesalahan lebih terstruktur dan mudah ditangani dalam apli
 # Penjelasan Proses Registrasi
 <img src = "registrasi.png" width = 300>
 ketika tombol "Registrasi ditekan maka akan memanggil method _submit
+
 ```void _submit() {
     _formKey.currentState!.save();
     setState(() {
